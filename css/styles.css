@@ -372,7 +372,7 @@ height: 29rem;
         padding: 4rem 1rem;
     }
     .skill_row{padding-left: 1rem;}
-    .pro_row{text-align: center;}
+    .pro_row{text-align: center; padding: 1rem;}
     .edu_div{text-align: center; padding: 0;}
     .edu_p{ width: 98%;}
     .edu_img{width: 98%;
